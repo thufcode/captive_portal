@@ -27,8 +27,7 @@ O script define várias rotas para o servidor web embutido no dispositivo ESP826
 - /admin: Página de administração para configurar o SSID da rede Wi-Fi falsa.
     
 ## **Página de Administração**
-A página de administração oferece funcionalidades adicionais para configurar o dispositivo ESP8266 e gerenciar as credenciais capturadas. Esta página pode ser acessada digitando o seguinte endereço no navegador:
-**http://172.0.0.1/admin**
+A página de administração oferece funcionalidades adicionais para configurar o dispositivo ESP8266 e gerenciar as credenciais capturadas. Esta página pode ser acessada digitando o seguinte endereço no navegador: http://172.0.0.1/admin
 ### Funcionalidades Disponíveis
 1. **Atualizar SSID:** Permite ao usuário atualizar o nome da rede Wi-Fi falsa (SSID). Ao inserir o novo SSID na caixa de texto e clicar em "Atualizar SSID", o SSID será alterado e a rede Wi-Fi falsa será reiniciada com o novo nome.
 2. **Ver Credenciais:** Direciona o usuário para uma página onde ele pode visualizar todas as credenciais capturadas até o momento. As credenciais são exibidas em formato de lista, mostrando o e-mail e a senha associados a cada conjunto capturado.
