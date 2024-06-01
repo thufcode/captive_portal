@@ -10,7 +10,7 @@ Bibliotecas necessárias: EEPROM, DNSServer, ESP8266WiFi, ESP8266WebServer, FS
 
 ## Instalar Drivers
 
-| ![CP210x](https://github.com/thufcode/captive_portal/assets/36115813/0f1699f5-6e80-4407-a97a-309b23400dbd) | ![CH34x](https://github.com/thufcode/captive_portal/assets/36115813/0f1699f5-6e80-4407-a97a-309b23400dbd) |
+| ![CP210x](https://github.com/thufcode/captive_portal/assets/36115813/0a9d8c0b-191e-43a9-bd0e-8801d7895672) | ![CH34x](https://github.com/thufcode/captive_portal/assets/36115813/a0c204c8-074d-49e7-a6f8-3fe060cbf713) |
 |:---:|:---:|
 | [CP210x Drivers](https://github.com/samdenty99/Wi-PWN/tree/master/drivers/CP210x) | [CH34x Drivers](https://github.com/samdenty99/Wi-PWN/tree/master/drivers/CH34x) |
 
