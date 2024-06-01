@@ -42,7 +42,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 ## Galeria de Imagens
 
-| ![Administração Portal](https://github.com/thufcode/captive_portal/assets/36115813/0f1699f5-6e80-4407-a97a-309b23400dbd) | ![Credenciais Portal](https://github.com/thufcode/captive_portal/assets/36115813/72640174-c1af-4f2d-a533-1a38465c3e7a) | ![Login Fake Facebook](https://github.com/thufcode/captive_portal/assets/36115813/5452a2a5-8dea-452a-b5e5-1f92e532a733) |
+| ![Administração Portal](https://github.com/thufcode/captive_portal/assets/36115813/6a2bd40f-d3f1-4507-b5b9-d9ed381f2530) | ![Credenciais Portal](https://github.com/thufcode/captive_portal/assets/36115813/8001b748-d8fa-4901-a0c3-8dba8068d521) | ![Login Fake Facebook](https://github.com/thufcode/captive_portal/assets/36115813/21617c00-9ffa-42ba-928f-fdc870cfdc5f) |
 |:---:|:---:|:---:|
 | Administração Portal | Credenciais Portal | Login Fake Facebook |
 
