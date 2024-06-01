@@ -54,5 +54,4 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 ## Considerações de Segurança e Ética
 
-Este script é fornecido apenas para fins educacionais e de teste. O uso indevido para capturar informações confidenciais é ilegal e antiético.  
-Não é recomendado implantar este script em redes públicas ou sem o consentimento explícito dos usuários.
+Este script é fornecido apenas para fins educacionais e de teste. O uso indevido para capturar informações confidenciais é ilegal e antiético. Não é recomendado implantar este script em redes públicas ou sem o consentimento explícito dos usuários. Os desenvolvedores não se responsabilizam pelo mau uso deste script.
