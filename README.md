@@ -44,20 +44,18 @@ A página de administração oferece funcionalidades adicionais para configurar 
   .container {
     display: flex; /* Define um layout flexível */
     justify-content: center; /* Centraliza os elementos horizontalmente */
-    flex-wrap: wrap; /* Permite que as imagens quebrem para a próxima linha se não houver espaço suficiente */
-    align-items: flex-start; /* Aligns items to the start of the container */
+    align-items: flex-start; /* Alinha os itens ao início do contêiner */
+    width: 100%; /* Define a largura máxima para o contêiner */
   }
   .imagem {
     margin: 10px; /* Adiciona margem entre as imagens */
     width: 120px; /* Define a largura das imagens */
-    height: auto; /* Define a altura automática para manter a proporção */
-    max-width: 100%; /* Define o máximo de largura para as imagens */
-    display: flex; /* Makes this a flex container too */
-    flex-direction: column; /* Stacks the text on top of the image */
-    align-items: center; /* Centers the content */
+    display: flex; /* Torna isso também um contêiner flexível */
+    flex-direction: column; /* Empilha o texto sobre a imagem */
+    align-items: center; /* Centraliza o conteúdo */
   }
   img {
-    width: 100%; /* Makes image take up 100% of the .imagem div */
+    width: 100%; /* Faz com que a imagem ocupe 100% da div .imagem */
   }
 </style>
 </head>
@@ -82,6 +80,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 </body>
 </html>
+
 
 
 
