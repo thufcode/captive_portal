@@ -37,15 +37,8 @@ A página de administração oferece funcionalidades adicionais para configurar 
 <div class="container">
   <div class="imagem">
     <h3>Administração Portal</h3>
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/0fb2954b-a138-4b05-852c-a4072770e992" alt="Administração Portal">
-  </div>
   <div class="imagem">
-    <h3>Credenciais do Portal</h3>
     <img src="https://github.com/thufcode/captive_portal/assets/36115813/b3f3215f-7fe3-427d-93d3-3a82ace0a35f" alt="Credenciais do Portal">
-  </div>
-  <div class="imagem">
-    <h3>Login Fake do Facebook</h3>
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/6a1b45be-cb0c-4629-bcc0-2165fb98d41c" alt="Login Fake do Facebook">
   </div>
 </div>
 
