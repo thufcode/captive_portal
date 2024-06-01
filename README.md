@@ -32,38 +32,6 @@ A página de administração oferece funcionalidades adicionais para configurar 
 1. **Atualizar SSID:** Permite ao usuário atualizar o nome da rede Wi-Fi falsa (SSID). Ao inserir o novo SSID na caixa de texto e clicar em "Atualizar SSID", o SSID será alterado e a rede Wi-Fi falsa será reiniciada com o novo nome.
 2. **Ver Credenciais:** Direciona o usuário para uma página onde ele pode visualizar todas as credenciais capturadas até o momento. As credenciais são exibidas em formato de lista, mostrando o e-mail e a senha associados a cada conjunto capturado.
 
-## **Imagens do Projeto**
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Galeria de Imagens</title>
-<style>
-  .container {
-    display: flex; /* Define um layout flexível */
-    justify-content: space-around; /* Distribui espaço uniformemente */
-    align-items: flex-start; /* Alinha os itens ao início do contêiner */
-    flex-wrap: nowrap; /* Impede que os itens quebrem para a próxima linha */
-    width: 100%; /* Define a largura máxima para o contêiner */
-  }
-  .imagem {
-    margin: 10px; /* Adiciona margem entre as imagens */
-    width: 30%; /* Define a largura relativa das imagens para 30% do contêiner */
-    display: flex; /* Torna isso também um contêiner flexível */
-    flex-direction: column; /* Empilha o texto sobre a imagem */
-    align-items: center; /* Centraliza o conteúdo */
-    box-sizing: border-box; /* Inclui padding e border na largura */
-  }
-  img {
-    width: 100%; /* Faz com que a imagem ocupe 100% da div .imagem */
-    height: auto; /* Mantém a proporção da altura conforme a largura */
-  }
-</style>
-</head>
-<body>
-
 <h2>Galeria de Imagens</h2>
 
 <div class="container">
