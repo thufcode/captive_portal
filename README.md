@@ -8,7 +8,7 @@ Este script foi desenvolvido para ser executado em um dispositivo ESP8266, como 
 **Arduino IDE configurada para programar ESP8266**  
 Bibliotecas necessárias: EEPROM, DNSServer, ESP8266WiFi, ESP8266WebServer, FS
 
-## Driver para o ESP8266
+## Drivers para o ESP8266
 
 | ![CP210x](https://github.com/thufcode/captive_portal/assets/36115813/0a9d8c0b-191e-43a9-bd0e-8801d7895672) | ![CH34x](https://github.com/thufcode/captive_portal/assets/36115813/a0c204c8-074d-49e7-a6f8-3fe060cbf713) |
 |:---:|:---:|
