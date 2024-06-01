@@ -8,6 +8,12 @@ Este script foi desenvolvido para ser executado em um dispositivo ESP8266, como 
 **Arduino IDE configurada para programar ESP8266**  
 Bibliotecas necessárias: EEPROM, DNSServer, ESP8266WiFi, ESP8266WebServer, FS
 
+## Instalar Drivers
+
+| ![CP210x](https://github.com/thufcode/captive_portal/assets/36115813/0f1699f5-6e80-4407-a97a-309b23400dbd) | ![CH34x](https://github.com/thufcode/captive_portal/assets/36115813/0f1699f5-6e80-4407-a97a-309b23400dbd) |
+|:---:|:---:|
+| [CP210x Drivers](https://github.com/samdenty99/Wi-PWN/tree/master/drivers/CP210x) | [CH34x Drivers](https://github.com/samdenty99/Wi-PWN/tree/master/drivers/CH34x) |
+
 ## Configuração
 
 Antes de carregar o script para o dispositivo ESP8266, certifique-se de configurar as seguintes variáveis:
