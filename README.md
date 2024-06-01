@@ -48,7 +48,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
   }
   .imagem {
     margin: 10px; /* Adiciona margem entre as imagens */
-    max-width: 200px; /* Define o tamanho máximo das imagens */
+    max-width: 50px; /* Define o tamanho máximo das imagens */
   }
 </style>
 </head>
