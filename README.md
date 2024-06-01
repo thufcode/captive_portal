@@ -34,9 +34,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 ## **Imagens do Projeto**
 
-![Pagina Administrativa](https://imgur.com/a/Ohatvl9)
-![Pagina Credenciais](https://imgur.com/a/6gfT24r)
-![Pagina Login Fake](https://imgur.com/a/0Zi1KwX)
+![adm_portal](https://github.com/thufcode/captive_portal/assets/36115813/f7d381d9-46db-4979-8032-9567bc175d11)
 
 ## **Considerações de Segurança e Ética**
 - Este script é fornecido apenas para fins educacionais e de teste. O uso indevido para capturar informações confidenciais é ilegal e antiético.
