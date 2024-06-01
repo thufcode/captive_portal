@@ -44,27 +44,29 @@ A página de administração oferece funcionalidades adicionais para configurar 
   .container {
     display: flex; /* Define um layout flexível */
     justify-content: center; /* Centraliza os elementos horizontalmente */
+    flex-wrap: wrap; /* Permite que as imagens quebrem para a próxima linha se não houver espaço suficiente */
   }
   .imagem {
     margin: 10px; /* Adiciona margem entre as imagens */
+    max-width: 200px; /* Define o tamanho máximo das imagens */
   }
 </style>
 </head>
 <body>
 
-<h2>Captive Portal</h2>
+<h2>Galeria de Imagens</h2>
 
 <div class="container">
   <div class="imagem">
-    <h3>Captive</h3>
+    <h3>Captive Portal</h3>
     <img src="https://github.com/thufcode/captive_portal/assets/36115813/f7d381d9-46db-4979-8032-9567bc175d11" alt="Captive Portal">
   </div>
   <div class="imagem">
-    <h3>Credenciais</h3>
+    <h3>Credenciais do Portal</h3>
     <img src="https://github.com/thufcode/captive_portal/assets/36115813/fcc6e2b2-2f4d-42eb-b0ce-f24413ee846c" alt="Credenciais do Portal">
   </div>
   <div class="imagem">
-    <h3>Login Fake Facebook</h3>
+    <h3>Login Fake do Facebook</h3>
     <img src="https://github.com/thufcode/captive_portal/assets/36115813/4143ecfa-fdb8-4805-b306-6fb11f1531cf" alt="Login Fake do Facebook">
   </div>
 </div>
