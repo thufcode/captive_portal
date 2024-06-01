@@ -49,7 +49,9 @@ A página de administração oferece funcionalidades adicionais para configurar 
   .imagem {
     margin: 10px; /* Adiciona margem entre as imagens */
     width: 80px; /* Define a largura das imagens */
-    height: 80px; /* Define a altura das imagens */
+    height: auto; /* Define a altura das imagens para ajustar proporção */
+    max-width: 100%; /* Define o máximo de largura para as imagens */
+    max-height: 80px; /* Define o máximo de altura para as imagens */
   }
 </style>
 </head>
@@ -74,6 +76,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 </body>
 </html>
+
 
 
 
