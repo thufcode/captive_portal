@@ -38,7 +38,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
   <div class="imagem">
     <h3>Administração Portal</h3>
   <div class="imagem">
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/b3f3215f-7fe3-427d-93d3-3a82ace0a35f" alt="Credenciais do Portal">
+    <img src=https://github.com/thufcode/captive_portal/assets/36115813/c5f74a5d-2ec8-4ad4-900e-211a615397aa">
   </div>
 </div>
 
