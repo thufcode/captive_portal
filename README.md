@@ -60,25 +60,21 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 <div class="container">
   <div class="imagem">
-    <h3>Captive Portal</h3>
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/f7d381d9-46db-4979-8032-9567bc175d11" alt="Captive Portal">
+    <h3>Administração Portal</h3>
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/c07482d3-cbdf-4a28-a27b-e8ed6b110d11" alt="Administração Portal">
   </div>
   <div class="imagem">
     <h3>Credenciais do Portal</h3>
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/fcc6e2b2-2f4d-42eb-b0ce-f24413ee846c" alt="Credenciais do Portal">
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/7475c5b8-4477-4417-9b63-3a85b93cf217" alt="Credenciais do Portal">
   </div>
   <div class="imagem">
     <h3>Login Fake do Facebook</h3>
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/4143ecfa-fdb8-4805-b306-6fb11f1531cf" alt="Login Fake do Facebook">
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/85bf9634-accf-45d5-8b7e-aa10d3a96033" alt="Login Fake do Facebook">
   </div>
 </div>
 
 </body>
 </html>
-
-
-
-
 
 
 ## **Considerações de Segurança e Ética**
