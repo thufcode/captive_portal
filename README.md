@@ -34,9 +34,44 @@ A página de administração oferece funcionalidades adicionais para configurar 
 
 ## **Imagens do Projeto**
 
-<div align="center">
-<img src="!admportal width="700px" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Galeria de Imagens</title>
+<style>
+  .container {
+    display: flex; /* Define um layout flexível */
+    justify-content: center; /* Centraliza os elementos horizontalmente */
+  }
+  .imagem {
+    margin: 10px; /* Adiciona margem entre as imagens */
+  }
+</style>
+</head>
+<body>
+
+<h2>Captive Portal</h2>
+
+<div class="container">
+  <div class="imagem">
+    <h3>Captive</h3>
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/f7d381d9-46db-4979-8032-9567bc175d11" alt="Captive Portal">
+  </div>
+  <div class="imagem">
+    <h3>Credenciais</h3>
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/fcc6e2b2-2f4d-42eb-b0ce-f24413ee846c" alt="Credenciais do Portal">
+  </div>
+  <div class="imagem">
+    <h3>Login Fake Facebook</h3>
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/4143ecfa-fdb8-4805-b306-6fb11f1531cf" alt="Login Fake do Facebook">
+  </div>
 </div>
+
+</body>
+</html>
+
 
 
 
