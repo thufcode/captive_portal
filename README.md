@@ -69,7 +69,7 @@ A página de administração oferece funcionalidades adicionais para configurar 
   </div>
   <div class="imagem">
     <h3>Login Fake do Facebook</h3>
-    <img src="https://github.com/thufcode/captive_portal/assets/36115813/8599f999-da42-4dd8-8d24-649d3468b4ac" alt="Login Fake do Facebook">
+    <img src="https://github.com/thufcode/captive_portal/assets/36115813/6a1b45be-cb0c-4629-bcc0-2165fb98d41c" alt="Login Fake do Facebook">
   </div>
 </div>
 
